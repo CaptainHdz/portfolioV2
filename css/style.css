@@ -8,3 +8,17 @@ body {
     height: auto;
     border-radius: 50%
 }
+
+.linkedin-icon {
+    max-width: 50%;
+    height: auto;
+}
+
+ a img.linkedin-icon:hover {
+    outline: white solid 1px;
+}
+
+a img.github-icon:hover {
+    outline: white solid 1px;
+
+}
