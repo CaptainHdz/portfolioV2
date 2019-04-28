@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://images.wallpaperscraft.com/image/line_glitter_glare_dark_95089_1920x1200.jpg");
+    background-repeat: no-repeat;
+}
+
+.Me {
+    max-width: 80%;
+    height: auto;
+    border-radius: 50%
+}
